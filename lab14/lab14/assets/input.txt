@@ -1,0 +1,4 @@
+3
+RPG;90;Role-playing game
+FPS;80;First-person shooter
+Strategy;70;Strategic gameplay
