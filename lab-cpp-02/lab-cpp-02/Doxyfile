@@ -1,0 +1,14 @@
+PROJECT_NAME           = "lab-cpp-02"
+OUTPUT_DIRECTORY       = doc
+INPUT                  = src
+RECURSIVE              = NO
+QUIET                  = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+FULL_PATH_NAMES        = NO
+STRIP_FROM_PATH        = src
+FILE_PATTERNS          = *.cpp *.h
+OUTPUT_LANGUAGE        = Ukrainian
